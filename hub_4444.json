@@ -1,0 +1,12 @@
+{
+  "port": 30000,
+  "newSessionWaitTimeout": 25000,
+  "capabilityMatcher": "org.openqa.grid.internal.utils.DefaultCapabilityMatcher",
+  "throwOnCapabilityNotPresent": true,
+  "nodePolling": 5000,
+  "cleanUpCycle": 5000,
+  "browserTimeout": 30,
+  "timeout": 30,
+  "maxSession": 5
+
+}
